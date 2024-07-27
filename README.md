@@ -27,7 +27,7 @@ A simple blog application built with Laravel 11. This project demonstrates basic
 
 #### Features
 
-- User authentication
+
 - Create, edit, and delete blog posts
 - List and view individual blog posts
 - Simple and clean design
